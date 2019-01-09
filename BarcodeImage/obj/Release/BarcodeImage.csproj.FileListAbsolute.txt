@@ -1,0 +1,11 @@
+C:\Users\yozkan\Desktop\BarcodeImage\BarcodeImage\bin\Release\BarcodeImage.exe.config
+C:\Users\yozkan\Desktop\BarcodeImage\BarcodeImage\bin\Release\BarcodeImage.exe
+C:\Users\yozkan\Desktop\BarcodeImage\BarcodeImage\bin\Release\BarcodeImage.pdb
+C:\Users\yozkan\Desktop\BarcodeImage\BarcodeImage\bin\Release\DataMatrix.net.dll
+C:\Users\yozkan\Desktop\BarcodeImage\BarcodeImage\obj\Release\BarcodeImage.csproj.CoreCompileInputs.cache
+C:\Users\yozkan\Desktop\BarcodeImage\BarcodeImage\obj\Release\BarcodeImage.csproj.CopyComplete
+C:\Users\yozkan\Desktop\BarcodeImage\BarcodeImage\obj\Release\BarcodeImage.exe
+C:\Users\yozkan\Desktop\BarcodeImage\BarcodeImage\obj\Release\BarcodeImage.pdb
+C:\Users\yozkan\Desktop\BarcodeImage\BarcodeImage\obj\Release\BarcodeImage.csprojAssemblyReference.cache
+C:\Users\yozkan\Desktop\BarcodeImage\BarcodeImage\bin\Release\QRCoder.dll
+C:\Users\yozkan\Desktop\BarcodeImage\BarcodeImage\bin\Release\System.Drawing.Common.dll

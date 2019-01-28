@@ -42,12 +42,12 @@ namespace BarcodeImage
                     QRCodeGenerator QREn = new QRCodeGenerator();
                     var QRData = QREn.CreateQrCode(StrBarcode, QRCoder.QRCodeGenerator.ECCLevel.H);
                     var QRCode = new QRCode(QRData);
-                    var Img = QRCode.GetGraphic(150);
+                    var Img = QRCode.GetGraphic(20);
                     Img.Save(args[0], System.Drawing.Imaging.ImageFormat.Jpeg);
                 }
 
                 //Test
-                string deneme = "ss";
+                //string deneme = "ss";
                 
             }
             catch (Exception)
